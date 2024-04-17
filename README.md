@@ -5,7 +5,6 @@ Welcome to Game Folio, a 2D game-based developer portfolio! This project is desi
 ## Features
 
 - **Interactive Gameplay**: Navigate through various levels and scenes to explore different aspects of the developer's portfolio.
-- **Skill Challenges**: Engage with mini-games or challenges that demonstrate the developer's skills and expertise.
 - **Project Displays**: Interact with in-game objects or characters to learn more about the developer's projects, including descriptions, links, and demos.
 - **Mobile and Desktop Compatibility**: Enjoy seamless gameplay and navigation on both desktop and mobile devices.
 
