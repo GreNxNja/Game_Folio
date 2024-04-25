@@ -13,8 +13,9 @@ export const dialogueData = {
   resume: `This is my desk and on it is my resume. <a href="https://github.com/GreNxNja/PrithFolio/blob/main/README.md" target="_blank">Check it out?</a>
   Contact me at dev.prith13@gmail.com if you have any interesting job opportunities!`,
   projects: `Gain insights into my professional journey through the projects I've worked on. Explore the challenges faced, solutions implemented, and the impact created. Each project serves as a milestone in my career, showcasing my skills and expertise in action:
-   <a href="https://github.com/GreNxNja/Mirofy" target="_blank">Mirofy</a>,
-   <a href="https://github.com/GreNxNja/Spotify_Clone" target="_blank">Spotify Clone</a>, and
+  <a href="https://github.com/GreNxNja/Zoomer" target="_blank">Zoomer</a> 
+  <a href="https://github.com/GreNxNja/Mirofy" target="_blank">Mirofy</a>,
+   <a href="https://github.com/GreNxNja/Spotify_Clone" target="_blank">Bragr</a>, and
    <a href="https://github.com/GreNxNja/Myrtle" target="_blank">Myrtle</a>!`,
   library: `Welcome to my library! Among the shelves filled with gaming CDs, you'll find a treasure trove of knowledge waiting to be explored. With around 300 disks in my collection, each one tells a story of adventure, strategy, and countless hours of gaming glory.`,
   exit: `If you want to exit Prithwijit's portfolio, just leave XD.`,
