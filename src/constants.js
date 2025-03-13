@@ -19,12 +19,15 @@ export const dialogueData = {
     
     Send a digital carrier pigeon to dev.prith13@gmail.com if you've got exciting job quests that need a coding adventurer!`,
 
-  projects: `Journey through my hall of digital fame! Each project is a battle scar from my coding crusades - challenges faced, dragons slain, and kingdoms built. Witness my technical sagas:
+  projects: `Check out the digital fortresses I've built in my coding journey:
+
+    <a href="#" target="_blank">NextRead</a> (Sept 2024) - My MERN stack book whisperer that reads your mind (well, almost)! Built with React, Node.js & MongoDB, it serves personalized book recommendations through collaborative filtering. Handles 10K+ titles with clever caching and features real-time chat with typing indicators. Deployed on AWS Lambda for magical scaling!
     
-    <a href="https://github.com/GreNxNja/Meetopia" target="_blank">Meetopia</a> (where meetings aren't boring!),
-    <a href="https://github.com/GreNxNja/Mirofy" target="_blank">Mirofy</a> (not a typo of a music app),
-    <a href="https://github.com/GreNxNja/Spotify_Clone" target="_blank">Bragr</a> (definitely not just another music clone), and
-    <a href="https://github.com/GreNxNja/Myrtle" target="_blank">Myrtle</a> (no turtles were harmed in development)!`,
+    <a href="#" target="_blank">Luna</a> (Aug 2024) - My Python moonshot! This CUDA-powered image processing wizardry analyzes lunar surfaces 10x faster than traditional methods. Created wavelet denoising algorithms that see 35% better in the dark and a system that spots moon craters like finding donuts in space photos. Available as an open-source package for aspiring lunar cartographers!
+    
+    <a href="#" target="_blank">Epiphany</a> (June 2023) - A learning platform built with Next.js and Go microservices that handles 100+ student brain-expansions simultaneously. Features an ML study path optimizer and an NLP chatbot that answers questions so I don't have to. Complete with a CI/CD pipeline that deploys itself while I sleep.
+    
+    <a href="https://github.com/GreNxNja/Meetopia" target="_blank">Meetopia</a> (June 2023) - A Next.js 14 video conferencing app where up to 8 people can argue about tabs vs. spaces in glorious encrypted HD. Built with WebRTC and adaptive streaming that works even on coffee shop WiFi. Features screen sharing and fancy virtual backgrounds powered by WebGL shader magic!`,
 
   library: `Tread carefully through my sacred gaming archive! This isn't just a collection - it's a museum of 300 digital realms waiting to transport you to worlds of adventure, strategy, and epic boss fights. Each disk contains fragments of my soul (and countless hours I probably should have spent doing something productive).`,
 
